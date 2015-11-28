@@ -1,0 +1,4 @@
+[submodule "tino-ilovezfs"]
+	path = tino
+	url = git@github.com:ilovezfs/tinolib
+	branch = osx_porting
