@@ -12,6 +12,8 @@
 #include "tino/scale.h"
 #include "tino/md5.h"
 
+#define O_DIRECT 0
+
 #include "ddrescue-verify_version.h"
 
 static int	errs;
